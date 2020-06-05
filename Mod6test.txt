@@ -1,1 +1,2 @@
 My second attempt at adding text to a file.
+Adding second line manually.
