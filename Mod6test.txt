@@ -2,3 +2,5 @@ My second attempt at adding text to a file.
 Adding second line manually.
 Adding line for 3rd commit practice.
 Adding line for 4th commit practice.
+The fifth line has been added for commit practice.
+Couldn't get the 5th time to work, now trying the 6th.
